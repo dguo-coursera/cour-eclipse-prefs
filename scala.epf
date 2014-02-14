@@ -6,5 +6,10 @@
 #Sun May 12 09:49:20 PDT 2013
 /instance/org.scala-ide.play2/org.scala-ide.play2.routeeditor.margin=4
 /instance/org.scala-ide.sdt.core/organizeimports.expandcollapse=preserve
-file_export_version=3.0
 /instance/org.scala-ide.sdt.core/organizeimports.groups=java$scala$org$com$org.coursera
+/instance/org.scala-ide.sdt.core/formatter.multilineScaladocCommentsStartOnFirstLine=true
+/instance/org.scala-ide.sdt.core/formatter.placeScaladocAsterisksBeneathSecondAsterisk=true
+/instance/org.scala-ide.sdt.core/formatter.doubleIndentClassDeclaration=true
+/instance/org.scala-ide.sdt.core/formatter.indentSpaces=2
+/instance/org.scala-ide.sdt.core/formatter.indentWithTabs=false
+file_export_version=3.0
